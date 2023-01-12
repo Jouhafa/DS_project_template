@@ -1,7 +1,46 @@
 DS_project
 ==============================
+<h1 align='center'>
+  Hi there 👋, I’m Zakarya JOUHAFA  👨‍💻
+</h1>
 
-This project represents an example of standard data science project
+<p align='center'>
+  A Data Scientist at BCG GAMMA, Casablanca-Morocco.
+</p>
+
+<p align='left'>
+  About me :
+</p>
+
+<p>
+
+- 👀 I’m passionate about the field of data science 
+- 🌱 I’m currently learning about Transformers
+- 💞️ I’m looking to collaborate on applications of NN models in the different fields 
+
+<p align='left'>
+   📫 How to reach me : jouhafazakaria@gmail.com
+</p>
+
+<p align='center'>
+  
+  <a href="https://www.linkedin.com/in/zakaryajouhafa/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/zakarya_jouhafa/">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  <a href="https://twitter.com/ZakaryaJouhafa">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  
+</p>
+
+--------
+
+<h1 align='center'>
+  This is a standard data science project 🚀
+</h1>
 
 Project Organization
 ------------
@@ -54,4 +93,3 @@ Project Organization
 
 --------
 
-<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
